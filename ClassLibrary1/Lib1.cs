@@ -4,7 +4,7 @@
     {
         public void Run()
         {
-            Console.WriteLine("From ClassLibrary1 - 1");
+            Console.WriteLine("From ClassLibrary1 - 2");
         }
     }
 }
