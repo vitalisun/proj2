@@ -1,6 +1,6 @@
 ﻿namespace ClassLibrary2
 {
-    public class Class1
+    public class Lib2
     {
         public void Run()
         {
